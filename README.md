@@ -23,3 +23,11 @@ binance_key:
 
 binance_secret_key:
 * 6Ek4vQsQBoSMyjiModuV4CGHwa7PfyrKX31ZZY4X6uX1if3VodXJ2aazhS2PWrnZ
+
+
+
+
+### Запуск программы
+
+Перед первым запуском прописать make install, для запуска проекта прописать make run
+Остановка программы - нажатие enter
